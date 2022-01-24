@@ -1,5 +1,5 @@
 I write some c# here and there.
-
+You can follow me on pretty much every social media /bezols
 
 <!---
 AlexBezols/AlexBezols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
