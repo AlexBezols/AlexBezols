@@ -1,4 +1,4 @@
-I write some c# here and there.
+Experimenting with C# and GSC
 You can follow me on pretty much every social media /bezols
 
 <!---
